@@ -1,0 +1,10 @@
+
+J
+java:S1481"/Remove this unused "difficulty" local variable.(†ùñ‚üÿÿÿÿ
+C
+java:S1481"-Remove this unused "language" local variable.(ÀÙ–¡
+D
+java:S1481")Remove this unused "save" local variable.(Ý¹Ìúúÿÿÿÿ
+D
+java:S1481")Remove this unused "back" local variable.(‡¾±þøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÐŠ—

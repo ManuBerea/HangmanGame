@@ -1,0 +1,13 @@
+
+r
+java:S1659<"PDeclare "randomEngMediumWord" and all following declarations on a separate line.(’ŸäÉşÿÿÿÿ8ƒóûÑ’0
+e
+java:S1192{"HDefine a constant instead of duplicating this literal "english" 3 times.(ÙÖ·½8‹óûÑ’0
+s
+java:S1192A"VDefine a constant instead of duplicating this literal "SELECT word_name FROM" 6 times.(¢Áé¨8‹óûÑ’0
+s
+java:S1192D"QDefine a constant instead of duplicating this literal "WHERE rownum = 1" 6 times.(şöŒáùÿÿÿÿ8‹óûÑ’0
+f
+java:S1192u"IDefine a constant instead of duplicating this literal "romanian" 3 times.(‰ÌÛ‰8‹óûÑ’0
+z
+java:S1192C"]Define a constant instead of duplicating this literal "ORDER BY dbms_random.value )" 6 times.(Ğ›‚8‹óûÑ’0

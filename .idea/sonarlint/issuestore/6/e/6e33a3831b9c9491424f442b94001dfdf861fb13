@@ -1,0 +1,11 @@
+
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(©Ãî¦üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ˆ„ÿÐøÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû
+T
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íÐ‡þÿÿÿÿ
+?
+java:S1128	")Remove this unused import 'java.io.File'.(†Ð¥Å
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šœ ä

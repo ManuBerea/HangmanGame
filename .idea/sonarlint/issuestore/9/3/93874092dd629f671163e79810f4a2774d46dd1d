@@ -1,0 +1,9 @@
+
+T
+java:S1610
+"9Convert the abstract class "DialogBox" into an interface.(ö–æÅúÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "start".(ÉËàñùÿÿÿÿ
+E
+java:S1481"*Remove this unused "start" local variable.(ÉËàñùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ûˆ

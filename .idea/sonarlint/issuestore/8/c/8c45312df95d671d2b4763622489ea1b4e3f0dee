@@ -1,0 +1,9 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(áà °üÿÿÿÿ
+G
+java:S1481",Remove this unused "letters" local variable.(‚˜üóÿÿÿÿÿ
+G
+java:S1481",Remove this unused "restart" local variable.(şÇ¦’ÿÿÿÿÿ
+D
+java:S1481")Remove this unused "back" local variable.(‡¾±şøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁĞŠ—
